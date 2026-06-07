@@ -4,7 +4,7 @@
 
 ?>
 
-<?php include('includes/header.php') ?>
+<?php include('include/header.php') ?>
 
     <div class="container mt-4">
 
@@ -74,4 +74,4 @@
         </div>
     </div>
 
-<?php include('includes/footer.php') ?>
+<?php include('include/footer.php') ?>
